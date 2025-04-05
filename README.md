@@ -1,0 +1,1 @@
+This is a Bash, Git, and GitHub-CLI script to help me reset my Git commits on some of my repos. I reused some of the Bash and Zsh code from my earlier projects, py-small-projects and py-create-backups.
